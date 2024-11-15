@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syed Wajid</h1>
 <h3 align="center">Aspiring Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **E-commerce Website**
+- 🔭 I’m Learning new Technologies Like Next.Js | Postgresql
 
 - 📫 How to reach me **syedwajid002@gmail.com**
   
