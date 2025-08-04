@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed Wajid</h1>
-<h3 align="center">Aspiring Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 - 🔭 I’m Learning new Technologies Like Next.Js | Postgresql
 
